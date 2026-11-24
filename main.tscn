@@ -1065,7 +1065,7 @@ position_smoothing_speed = 4.0
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="CharacterBody2D" unique_id=1622972273]
 position = Vector2(0, -4)
 sprite_frames = SubResource("SpriteFrames_5fneh")
-animation = &"idle"
+animation = &"run"
 
 [node name="Plastic" type="Area2D" parent="." unique_id=698529287]
 script = ExtResource("4_lquwl")

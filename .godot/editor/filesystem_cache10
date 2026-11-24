@@ -1,0 +1,22 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1795482839
+248259-removebg-preview.png::CompressedTexture2D::5583318698845014724::1792814932::1792814932::1::::<><><>0<>0<>e1a44f336f29f2f3f6328b826d19746f<>res://.godot/imported/248259-removebg-preview.png-dafded3cb7763c39924d4ec79b44fd44.ctex::
+248259.png::CompressedTexture2D::3764934241414796169::1792814730::1792814730::1::::<><><>0<>0<>52f0aa3156aa3b9289e6e9de2ba60aae<>res://.godot/imported/248259.png-181bea6b021ca9ff71a0fb92bf6b926d.ctex::
+animated_sprite_2d.gd::GDScript::3449295617421579133::1792856295::0::1::::<>CharacterBody2D<><>0<>0<><>::
+bottle.png::CompressedTexture2D::257199222539642195::1792815951::1792815983::1::::<><><>0<>0<>df207b1ad7d0038e5cc788eee918be7d<>res://.godot/imported/bottle.png-556bf758ded935c7b15ae2c1330cbe1c.ctex::
+character_body_2d.gd::GDScript::3734208979079863321::1792978606::0::1::::<>CharacterBody2D<><>0<>0<><>::
+character_body_2d_2.gd::GDScript::8414558656091261176::1792855070::0::1::::<>CharacterBody2D<><>0<>0<><>::
+export_presets.cfg::TextFile::-1::1792878215::0::1::::<><><>0<>0<><>::
+grass.png::CompressedTexture2D::8304894524116531105::1789780668::1789780668::1::::<><><>0<>0<>081c9f4399dc3685644d66cff0d9f504<>res://.godot/imported/grass.png-79cf597cc1adecdff9d12adae9606f9b.ctex::
+icon.svg::CompressedTexture2D::6651563706454207577::1789778413::1789778419::1::::<><><>0<>0<>d74ea05e306c4de9bae4ee50f9dd504f<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+main.tscn::PackedScene::3436286001692284465::1792877795::0::1::::<><><>0<>0<><>::uid://bcr6xx0p3uqen::::res://Screenshot 2026-10-24 161954.png<>uid://btg442arrs7rx::::res://character_body_2d.gd<>uid://dqk7nt1b8skm8::::res://grass.png<>uid://dwube4k44q0j::::res://bottle.png<>uid://clsupcm8o1vqa::::res://248259-removebg-preview.png<>uid://blj62jwgeatpn::::res://plastic.gd
+plastic.gd::GDScript::3179008313683016663::1792875143::0::1::::<>Area2D<><>0<>0<><>::
+Screenshot 2026-10-24 161954.png::CompressedTexture2D::2563817340200672213::1792876808::1792876809::1::::<><><>0<>0<>eb99ae183f1cf4cf3c44e8b9f477d746<>res://.godot/imported/Screenshot 2026-10-24 161954.png-68a4d991f5cb74a3623da34219e98dd6.ctex::
+::res://addons/::1793074252
+::res://addons/godot_super-wakatime/::1793074253
+api_key_prompt.tscn::PackedScene::3919262858641749045::1793074252::0::1::::<><><>0<>0<><>::
+counter.tscn::PackedScene::6849360014225833986::1793074252::0::1::::<><><>0<>0<><>::
+godot_super-wakatime.gd::GDScript::6277149880384411866::1793074252::0::1::::<>EditorPlugin<><>0<>1<><>::
+plugin.cfg::TextFile::-1::1793074252::0::1::::<><><>0<>0<><>::
+README.md::TextFile::-1::1793074252::0::1::::<><><>0<>0<><>::
+utils.gd::GDScript::5251015809120159908::1793074253::0::1::::<>RefCounted<><>0<>0<><>::
